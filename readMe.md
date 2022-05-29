@@ -1,5 +1,5 @@
-# BLANK
-_By Arthur Edward Ortiz_
+# Google Map Api 
+_By Arthur Edward Ortiz & Elliot McGonigal_
 
 ## Scope / Assignments 
 
@@ -23,4 +23,4 @@ _By Arthur Edward Ortiz_
 ## Known Bugs 
 
 ## License
-_Copyright (c) MONTH DAY, 2022 Arthur Edward Ortiz MIT_
+_Copyright (c) May 29, 2022 Arthur Edward Ortiz, Elliot McGonigal  MIT_
